@@ -10,7 +10,6 @@ URL:		http://optimum.sf.net
 BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define			_prefix		/usr/X11R6/
 
 %description
 Optilib is a library of functions dealing with X11 and images.
