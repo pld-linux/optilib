@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Libraries
 Source0:	http://optimum.sf.net/%{name}/%{name}-%{version}.tar.gz
+# Source0-md5:	e7bc5d6bc196d6274b1a1da0d5a8c10a
 URL:		http://optimum.sf.net
 BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
