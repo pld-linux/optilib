@@ -1,6 +1,6 @@
 Name:		optilib
 Summary:	Optilib - Linux Demo Scene library
-Summary(pl):	Optilib - biblioteka dla Linuxowej DemoSceny
+Summary(pl):	Optilib - biblioteka dla Linuksowej DemoSceny
 Version:	0.2
 Release:	1
 License:	GPL
@@ -17,7 +17,7 @@ Optilib is a library of functions dealing with X11 and images.
 
 %description -l pl
 Optilib jest bibliotek± u³atwiaj±c± pisanie demek scenowych pod
-Linuxem dla X11.
+Linuksem dla X11.
 
 %prep
 %setup -q -n Optilib-%{version}
