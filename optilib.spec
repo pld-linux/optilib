@@ -1,6 +1,6 @@
 Name:		optilib
 Summary:	Optilib - Linux Demo Scene library
-Summary(pl):	Optilib - biblioteka dla Linuksowej DemoSceny
+Summary(pl):	Optilib - biblioteka dla linuksowej DemoSceny
 Version:	0.2
 Release:	1
 License:	GPL
