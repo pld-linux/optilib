@@ -1,11 +1,11 @@
-Name:		optilib
 Summary:	Optilib - Linux Demo Scene library
 Summary(pl):	Optilib - biblioteka dla linuksowej DemoSceny
+Name:		optilib
 Version:	0.2
 Release:	1
 License:	GPL
 Group:		Libraries
-Source0:	http://optimum.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://optimum.sourceforge.net/optilib/%{name}-%{version}.tar.gz
 # Source0-md5:	44d88e90e7196db4239dfb484d8c1f07
 URL:		http://optimum.sourceforge.net/
 BuildRequires:	XFree86-devel
@@ -39,5 +39,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc doc/*
-%attr(644,root,root) %{_libdir}/*
+%{_libdir}/*
 %{_includedir}/optilib/*
