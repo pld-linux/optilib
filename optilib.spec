@@ -1,5 +1,5 @@
 Summary:	Optilib - Linux Demo Scene library
-Summary(pl.UTF-8):   Optilib - biblioteka dla linuksowej DemoSceny
+Summary(pl.UTF-8):	Optilib - biblioteka dla linuksowej DemoSceny
 Name:		optilib
 Version:	0.2
 Release:	1
